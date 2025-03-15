@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UwS+BcAeOGk=",
+  "success": true,
+  "projectFilePath": "/Users/jakub/Projects/team-project/TeamProject/TeamProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakub/.nuget/packages/websocketsharp.standard/1.0.3/websocketsharp.standard.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

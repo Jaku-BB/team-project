@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "WebSocketSharp.Standard/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/websocket-sharp-standard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/websocket-sharp-standard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebSocketSharp.Standard/1.0.3": {
+      "sha512": "ITDck8Gv/1yv+aolSM/37YH6QBGksa9yNp3p91E1jZY2gI9IYs2WjiX22SW0Yt0Y8ovrPp/OiuQAqAZBYC7Y5Q==",
+      "type": "package",
+      "path": "websocketsharp.standard/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/websocket-sharp-standard.dll",
+        "websocketsharp.standard.1.0.3.nupkg.sha512",
+        "websocketsharp.standard.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "WebSocketSharp.Standard >= 1.0.3"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jakub/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jakub/Projects/team-project/TeamProject/TeamProject.csproj",
+      "projectName": "TeamProject",
+      "projectPath": "/Users/jakub/Projects/team-project/TeamProject/TeamProject.csproj",
+      "packagesPath": "/Users/jakub/.nuget/packages/",
+      "outputPath": "/Users/jakub/Projects/team-project/TeamProject/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jakub/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "WebSocketSharp.Standard": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/jakub/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
