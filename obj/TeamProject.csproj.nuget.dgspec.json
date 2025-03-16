@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakub/Projects/team-project/TeamProject/TeamProject.csproj": {}
+    "/Users/jaku-bb/Projects/team-project/TeamProject.csproj": {}
   },
   "projects": {
-    "/Users/jakub/Projects/team-project/TeamProject/TeamProject.csproj": {
+    "/Users/jaku-bb/Projects/team-project/TeamProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakub/Projects/team-project/TeamProject/TeamProject.csproj",
+        "projectUniqueName": "/Users/jaku-bb/Projects/team-project/TeamProject.csproj",
         "projectName": "TeamProject",
-        "projectPath": "/Users/jakub/Projects/team-project/TeamProject/TeamProject.csproj",
-        "packagesPath": "/Users/jakub/.nuget/packages/",
-        "outputPath": "/Users/jakub/Projects/team-project/TeamProject/obj/",
+        "projectPath": "/Users/jaku-bb/Projects/team-project/TeamProject.csproj",
+        "packagesPath": "/Users/jaku-bb/.nuget/packages/",
+        "outputPath": "/Users/jaku-bb/Projects/team-project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jakub/.nuget/NuGet/NuGet.Config"
+          "/Users/jaku-bb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/jakub/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/jaku-bb/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
